@@ -1,0 +1,7 @@
+钟离 s(0.2),e(hold)    
+叶洛亚 e,q
+哥伦比娅 e,q,wait(0.5)
+兹白 e,wait(0,2),attack,wait(0,2),attack,wait(0.2),attack,wait(0.2),attack,wait(0.2),e,wait(0.2),attack,wait(0.2),attack,wait(0.2),attack,wait(0.2),attack,wait(0.2),e,wait(0.2),attack,wait(0.2),attack,wait(0.2),attack,wait(0.2),attack,wait(0.2),e,wait(0.2),attack,wait(0.2),attack,wait(0.2),attack,wait(0.2),attack,wait(0.2),e,wait(0.2),q
+     
+     
+     
